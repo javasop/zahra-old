@@ -1,0 +1,22 @@
+[
+    {
+        "product_id": "20",
+        "product_name": " product1",
+        "product_description": "abcdefgh",
+        "product_image": "http//image.url",
+        "featured_image": "http://featuredimage.url",
+        "product_price": "0",
+        "product_stock": "10",
+        "category_name": "abcCat"
+    },
+    {
+        "product_id": "20",
+        "product_name": " product1",
+        "product_description": "abcdefgh",
+        "product_image": "http//image.url",
+        "featured_image": "http://featuredimage.url",
+        "product_price": "0",
+        "product_stock": "10",
+        "category_name": "abcCat"
+    }
+]

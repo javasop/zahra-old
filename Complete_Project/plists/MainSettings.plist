@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>My Page</key>
+	<string>mypage.png</string>
+	<key>Classmates</key>
+	<string>Classmates.png</string>
+	<key>Timetable</key>
+	<string>timetable.png</string>
+	<key>Groups</key>
+	<string>groups.png</string>
+	<key>Events</key>
+	<string>events.png</string>
+	<key>Messages</key>
+	<string>messages.png</string>
+	<key>Books</key>
+	<string>books.png</string>
+	<key>Compass</key>
+	<string>compass.png</string>
+	<key>Setttings</key>
+	<string>settings.png</string>
+	<key>My Page - 2</key>
+	<string>mypage.png</string>
+	<key>My Page - 4</key>
+	<string>mypage.png</string>
+	<key>My Page - 3</key>
+	<string>mypage.png</string>
+</dict>
+</plist>
